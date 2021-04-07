@@ -4,7 +4,7 @@
 엔지니어가 되기위해 열심히 공부하고 있습니다  
 방문해 주셔서 감사합니다😍  
 블로그 : <https://16min99.github.io>  
-노션 정보글 : [https://www.notion.so/iceminkyu/7380680674ce4492ac1bb93af33a9cec](https://www.notion.so/iceminkyu/7380680674ce4492ac1bb93af33a9cec)
+ [노션에 작성한 정보글](https://www.notion.so/iceminkyu/7380680674ce4492ac1bb93af33a9cec)
 
 ### 💻 프로젝트
 2021 국제 대학생 창작 자동차 경진대회 자율주행부분 인하대학교 기가차팀
