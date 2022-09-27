@@ -8,6 +8,9 @@ KDT 프로그래머스 클라우드 기반 백엔드 데브코스 1기.
 
 ArtKu 프로젝트 (예술인 구인구직,SNS 어플리케이션). 
 
+## 기술 스택
+사용 언어 : JAVA, Kotlin
+주 기술 : spring mvc, spring security, SQL, JPA, k8s, Jenkins
 
 ## 
 <!--방문자 수 -->
