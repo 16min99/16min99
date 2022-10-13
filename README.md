@@ -12,7 +12,7 @@ ArtKu 프로젝트 (예술인 구인구직,SNS 어플리케이션).
 
 
 ## 기술 스택
-사용 언어 : JAVA, Kotlin
+사용 언어 : JAVA, Kotlin  
 주 기술 : spring mvc, spring security, SQL, JPA, k8s, Jenkins
 
 ## 
